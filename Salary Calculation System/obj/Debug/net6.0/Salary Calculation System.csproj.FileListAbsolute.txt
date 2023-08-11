@@ -1,0 +1,15 @@
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\bin\Debug\net6.0\Salary Calculation System.exe
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\bin\Debug\net6.0\Salary Calculation System.deps.json
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\bin\Debug\net6.0\Salary Calculation System.runtimeconfig.json
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\bin\Debug\net6.0\Salary Calculation System.dll
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\bin\Debug\net6.0\Salary Calculation System.pdb
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.csproj.AssemblyReference.cache
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.GeneratedMSBuildEditorConfig.editorconfig
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.AssemblyInfoInputs.cache
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.AssemblyInfo.cs
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.csproj.CoreCompileInputs.cache
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.dll
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\refint\Salary Calculation System.dll
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.pdb
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\Salary Calculation System.genruntimeconfig.cache
+D:\foe\coures\backend devo .net\c#\sheet asywat\Salary Calculation System\Salary Calculation System\obj\Debug\net6.0\ref\Salary Calculation System.dll
